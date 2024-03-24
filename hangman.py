@@ -50,12 +50,12 @@ def oyna():
         adamciz(hak)
         
         if hak == 0:
-            print("Kazanamadınız!")
+            print("\nKazanamadınız!")
             menu(kelime)
         
         
         if "".join(gozukenkelime) == kelime:
-            print("Kazandınız!")
+            print("\nKazandınız!")
             menu(kelime)
 
         else:

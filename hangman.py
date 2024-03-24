@@ -10,7 +10,7 @@ durumlar = [
     "\ \n",
     "   | \n",
     "  /",
-    "\ \n"
+    " \ \n"
 ]
 
 def adamciz(hak):
